@@ -1,3 +1,5 @@
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/lfcarrega/nfe-tool/blob/main/README.pt-BR.md)
+
 # NF-e Tool
 
 Ferramenta desktop para geração e extração de chaves de acesso de documentos fiscais eletrônicos brasileiros (NF-e, NFC-e, SAT CF-e, CT-e e MDF-e), desenvolvida em AutoHotkey v2.
